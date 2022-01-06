@@ -1,7 +1,7 @@
 # Exercise 1
 In this exercise you'll practice using git to clone and edit repositories, as will be required for later exercises.
 
-1. If you haven't already, configure your name and email address for your GitHub account using the terminal.
+If you haven't already, configure your name and email address for your GitHub account using the terminal.
 
 	```bash
 	# enter your full name (without the dashes)
@@ -11,7 +11,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 	git config --global user.email "your-email-address"
 	```
 
-1. Using the terminal, clone **your repository** to your machine (make sure you're in the desired directory on your terminal).
+Using the terminal, clone **your repository** to your machine (make sure you're in the desired directory on your terminal).
 
 	```bash
 	# Enter a desired directory
@@ -20,7 +20,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 	# Get the URL by clicking the "Clone or Download" button on GitHub, then clicking the clipboard icon
 
 	# Clone the repository
-	git clone https://github.com/info-201a-au21/exercises-melaniewalsh.git
+	git clone https://github.com/info-201b-au21/Week1-Exercises-melaniewalsh.git
 	```
 
 1. On your machine, open up this file (`exercise-1/README.md`) in a text editor of your choice.
