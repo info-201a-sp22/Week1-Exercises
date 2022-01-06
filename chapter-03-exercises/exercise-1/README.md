@@ -4,7 +4,7 @@ In this exercise, you will practice using git to clone and edit repositories.
 
 If you haven't already, configure your name and email address for your GitHub account using the terminal.
 
-If you haven't already, create your own version of this repository on GitHub by using the link from GitHub Classroom.
+If you haven't already, create your own version of this repository on GitHub by using the link from GitHub Classroom
 
 1. Using the terminal, clone your own version of this Week1-Exercises repository (the one with your GitHub username in it) to your computer. Make sure you're in the directory that you want to be on your computer. If you haven't already, you should make a folder for this class and work in there.
 
